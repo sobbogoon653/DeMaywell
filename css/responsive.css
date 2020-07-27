@@ -1,0 +1,82 @@
+
+/* 991px */
+@media only screen and (max-width:991px){
+	#bannar .bannar_info h1 {
+	    font-size: 3rem;
+	}
+	#bannar .bannar_info h2 {
+	    font-size: 2rem;
+	}
+	#contact_us .contact_us_info h1 {
+   	 font-size: 2.8rem;
+	}
+	#contact_us .contact_us_info h2 {
+    	font-size: 1.8rem;
+	}
+	#header ul li:hover ul {
+	    left: 87px;
+	    top: 17px;
+	}
+}
+/* 767px */
+@media only screen and (max-width:767px){
+	#bannar .bannar_info h1 {
+	    font-size: 2rem;
+	}
+	#bannar .bannar_info h2 {
+	    font-size: 1.2rem;
+	}
+	#fake_add { 
+    	margin: -26px 0 60px 0;
+	}
+}
+/* 529px */
+@media only screen and (max-width:529px){
+	#contact_us .contact_us_info h1 {
+    	font-size: 2.2rem;
+	}
+	#contact_us .contact_us_info h2 {
+    	font-size: 1.5rem;
+	}
+}
+/* 433px */
+@media only screen and (max-width:433px){
+	#header .navbar-brand img {
+	    width: 190px;
+	    height: 123px;   
+	}
+	#fake_add { 
+    margin: -26px 0 60px 0;
+	}
+}
+/* 428px */
+@media only screen and (max-width:428px){
+	#bannar .bannar_info h1 {
+    font-size: 24px;
+    font-weight: 700;
+	}
+	#bannar .bannar_info h2 {
+    font-size: 18px;
+	}
+	#fake_add { 
+    margin: -26px 0 60px 0;
+	}
+}
+/* 422px */
+@media only screen and (max-width:422px){
+	#contact_us .contact_us_info h1 {
+    	font-size: 2rem;
+	}
+	#contact_us .contact_us_info h2 {
+    	font-size: 1.2rem;
+	}
+}
+
+
+
+
+
+
+
+
+
